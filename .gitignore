@@ -2,3 +2,5 @@
 *.xml
 .idea/$CACHE_FILE$
 *.iml
+.DS_Store
+*.pyc
